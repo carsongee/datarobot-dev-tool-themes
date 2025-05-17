@@ -2,6 +2,8 @@
 
 This preset is based on [Pastel Powerline](https://starship.rs/presets/pastel-powerline)
 
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/18f50ff3-0890-404d-b54b-2f72b635254b" />
+
 
 ### Prerequisites
 
@@ -9,9 +11,10 @@ This preset is based on [Pastel Powerline](https://starship.rs/presets/pastel-po
 
 ### Configuration
 
+Be sure to backup your existing preset, and then download/install like:
 ```sh
-curl 
+curl --output ~/.config/starship.toml https://raw.githubusercontent.com/carsongee/datarobot-dev-tool-themes/refs/heads/main/starship/starship.toml
 ```
 
-[Click to download TOML](./starship.toml){download}
+[Click to download TOML]([./starship.toml](https://raw.githubusercontent.com/carsongee/datarobot-dev-tool-themes/refs/heads/main/starship/starship.toml))
 
